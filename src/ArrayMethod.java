@@ -1,6 +1,6 @@
 public class ArrayMethod {
     public static void main (String [] args) {
-        System.out.println("Thank you for using ArrayMwthod");
+        System.out.println("Thank you for using ArrayMethod");
         int count = 10;
         while (count != 0) {
 
